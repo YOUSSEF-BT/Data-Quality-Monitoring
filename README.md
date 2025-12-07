@@ -1,4 +1,4 @@
-# **🎯 Data Quality Monitoring Platform**
+                    # **🎯 Data Quality Monitoring Platform**
 
 ![Dashboard Preview](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 ![React](https://img.shields.io/badge/React-18.2-blue)
