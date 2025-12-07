@@ -1,4 +1,3 @@
-```markdown
 # **🎯 Data Quality Monitoring Platform**
 
 ![Dashboard Preview](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
