@@ -270,4 +270,3 @@ Pour toute question ou collaboration :
 ---
 
 **Dernière mise à jour : Décembre 2025**
-```
